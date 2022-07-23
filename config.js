@@ -129,7 +129,7 @@ global.stickauth = `☘︎ ᴍɪᴋᴏᴛᴏ ʙᴏᴛᴢ`
 global.colong1 = 'Hanz'
 global.colong2 = '(6289524208209)'
 global.img = pickRandom(waifu)
-global.fla='https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
+global.fla = pickRandom(flaaa)
 global.flaaa = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=',
