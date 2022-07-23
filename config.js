@@ -1,7 +1,7 @@
-import { watchFile, unwatchFile } from 'fs'
-import chalk from 'chalk'
-import { fileURLToPath } from 'url'
-import moment from 'moment-timezone'
+let fs = require('fs')
+
+let flaaa = JSON.parse(fs.readFileSync('./api/fla.json'))
+let waifu = JSON.parse(fs.readFileSync('./api/waifu.json'))
 let data = JSON.parse(fs.readFileSync('./data.json'))
 
 //*[Oᴡɴᴇʀ ɴᴜᴍʙᴇʀ]*\\
