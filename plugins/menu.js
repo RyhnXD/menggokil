@@ -20,6 +20,7 @@ const defaultMenu = {
 ├ Uptime: *%uptime (%muptime)*
 ├ Database: %rtotalreg dari %totalreg
 ├ gc wangsaff: https://bit.ly/3ooVA7n
+├ Github: https://github.com/fokusdotid
 └────
 %readmore`.trim(),
   header: '┌─〔 %category 〕',
